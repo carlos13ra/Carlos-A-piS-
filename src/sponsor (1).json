@@ -1,0 +1,19 @@
+{
+  "enabled": true,
+  "title": "Sponsored Ads",
+  "subtitle": "Support these amazing services 💫",
+  "showOnLoad": true,
+  "showInterval": 300000,
+  "sponsors": [
+    {
+      "id": "vgxteam",
+      "name": "Carlos Ramírez",
+      "logo": "",
+      "backgroundColor": "#1a1a1a",
+      "textColor": "#ffffff",
+      "bannerImage": "/src/images/banner.jpg",
+      "url": "https://whatsapp.com/channel/0029VbBGlokA89MliWWv1x16",
+      "active": true
+    }
+  ]
+}
